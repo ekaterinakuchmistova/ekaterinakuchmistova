@@ -25,7 +25,7 @@
 
 ---
 
-## Skills and Interests
+## Skills and Interests:
 
 <p align="center">
   <!-- Replace with your own icons and links -->
