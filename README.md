@@ -12,7 +12,7 @@
 
 ---
 
-### Connect with me:
+### 🤝 Connect with me:
 
 <p align="center">
   <a href="https://t.me/Katrin_alexandra">
@@ -25,7 +25,7 @@
 
 ---
 
-## Skills and Interests:
+## 💻 Skills and Interests:
 
 <p align="center">
   <!-- Replace with your own icons and links -->
@@ -46,6 +46,7 @@
  
 
 ---
+### ⚙️ GitHub statistics:
 <p align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekaterinakuchmistova&show_icons=true&theme=radical" alt="Ekaterina's GitHub Stats"/>
