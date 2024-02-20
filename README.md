@@ -30,7 +30,7 @@
 <p align="center">
   <!-- Replace with your own icons and links -->
   <img src="https://img.shields.io/badge/SQL-000?logo=MySQL" alt="SQL" width="150"/>
-  <img src="https://img.shields.io/badge/APITests-000?logo=Postman" alt="API Tests" width="220"/>
+  <img src="https://img.shields.io/badge/API-Tests-000?logo=Postman" alt="API Tests" width="220"/>
   <img src="https://img.shields.io/badge/QASE-000?logo=Qase" alt="QASE" width="180"/>
   <img src="https://img.shields.io/badge/Jira-000?logo=Jira" alt="Jira" width="140"/>
   <img src="https://img.shields.io/badge/Swagger-Postman-000?logo=Swagger" alt="Swagger/Postman" width="320"/>
