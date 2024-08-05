@@ -7,7 +7,6 @@
 
 ### About me:
 
-- 🚀 I’m currently working on [Pics.io](https://pics.io/)
 - 📘 I’m currently learning Playwright | Typescript
 
 ---
