@@ -27,6 +27,7 @@
 ## 💻 Skills and Interests:
 
 <p align="center">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="100"/>
   <img src="https://img.shields.io/badge/SQL-000?logo=MySQL" alt="SQL" width="150"/>
   <img src="https://img.shields.io/badge/API-Tests-000?logo=Postman" alt="API Tests" width="220"/>
   <img src="https://img.shields.io/badge/QASE-000?logo=Qase" alt="QASE" width="180"/>
@@ -39,6 +40,14 @@
   <img src="https://img.shields.io/badge/GitHub-000?logo=GitHub" alt="GitHub" width="190"/>
   <img src="https://img.shields.io/badge/Allure-000?logo=Allure" alt="Allure" width="120"/>
   <img src="https://img.shields.io/badge/DevTools-000?logo=GoogleChrome" alt="DevTools" width="220"/>
+  
+
+
+
+
+
+
+
 </p>
 
 
